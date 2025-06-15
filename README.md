@@ -48,6 +48,10 @@ This project presents a simple yet effective sales performance dashboard built i
 
 ---
 
+## Dashboard Report:
+![Dashboard Screenshot](https://github.com/user-attachments/assets/4712c724-31a5-43cd-9bf7-9e29dd4e7346)
+
+
 ## 📬 Contact
 
 Created by **Dhana Lakshmi Kotupalli**  
